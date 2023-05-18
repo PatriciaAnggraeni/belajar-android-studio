@@ -6,7 +6,7 @@
     <!-- memerlukan tag corners (opsional) dan gradients -->
 
     <!-- tag corners juga bisa menguskom radius sudut 1/1-->
-    <corners android:radius="20dp"/>
+    <corners android:radius="0dp"/>
 
     <!-- tag gradient memerlukan setidaknya startColor dan startEnd, untuk angle opsional -->
     <gradient
