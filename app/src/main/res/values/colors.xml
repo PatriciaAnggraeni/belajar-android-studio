@@ -8,7 +8,11 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <!-- buat warna kustom -->
+    <!-- buat warna kustom untuk backgorund -->
     <color name="custom_color_purple">#8A2BE2</color>
     <color name="custom_color_orange">#F1C232</color>
+
+    <!-- Buat warna kustom untuk tombol -->
+    <color name="custom_btn_color_red">#FF2E2E</color>
+    <color name="custom_btn_color_blue">#28FFFF</color>
 </resources>
