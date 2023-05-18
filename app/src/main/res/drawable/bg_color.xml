@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    android:shape="rectangle"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- memerlukan tag corners (opsional) dan gradients -->
+
+    <!-- tag corners juga bisa menguskom radius sudut 1/1-->
+    <corners android:radius="20dp"/>
+
+    <!-- tag gradient memerlukan setidaknya startColor dan startEnd, untuk angle opsional -->
+    <gradient
+        android:startColor="@color/custom_color_orange"
+        android:endColor="@color/custom_color_purple"
+        android:angle="-45" />
+</shape>
